@@ -1,0 +1,17 @@
+title: Theme
+data:
+  social_links:
+    -
+      name: Twitter
+      url: 'https://twitter.com/lakeworthbchpbc?lang=en'
+      icon: theme/social/twitter.svg
+    -
+      name: Youtube
+      url: 'https://www.youtube.com/channel/UCncwxP4Mx5GFK_AktC8WdwQ'
+      icon: theme/social/youtube.svg
+    -
+      name: Facebook
+      url: 'https://www.facebook.com/LakeWorthBeachPBC/'
+      icon: theme/social/facebook.svg
+  primary_color: '#FA7268'
+  secondary_color: '#C62368'

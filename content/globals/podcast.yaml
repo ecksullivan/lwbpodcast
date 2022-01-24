@@ -1,0 +1,25 @@
+title: Podcast
+data:
+  title: 'Lake Worth Beach Podcast'
+  cover_art: artwork/lwbpodcastlogo.png
+  description: |-
+    An easygoing enclave worth discovering
+    With “Lake and Beach” in its name, it's a sure bet that Lake Worth Beach offers all the water-soaked fun you're after on a Florida vacation. ... You can fish this well-stocked freshwater lake, with boat launching ramps and fishing piers at John Prince Memorial Park.
+  type: desc
+  primary_category: Government
+  secondary_category: News
+  keywords:
+    - 'lake worth beach'
+    - 'lwb podcast'
+    - 'lwb news'
+    - 'lake worth news'
+    - 'whats happening in lake worth beach'
+  spoken_language: en
+  author: 'Lake Worth Beach'
+  copyright: '© {{ now format="Y" }} Lake Worth Beach'
+  owner_email: webmaster@lakeworthbeachfl.gov
+  explicit: false
+  itunes_block: false
+  google_block: false
+  locked: false
+  complete: false
